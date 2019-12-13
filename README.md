@@ -4,12 +4,12 @@ This site provides Canonical import paths for Go packages served by Davsk Ltd. C
 
 ## Menu
 ### DavskIo
-* Documentation https://Pkg.Davsk.Net/DavskIo/
+* Documentation [https://Pkg.Davsk.Net/DavskIo/](https://Pkg.Davsk.Net/DavskIo/)
 * Code
 
 ## Instructions
-* https://Pkg.Davsk.Net/admin.html
-* https://texlution.com/post/golang-canonical-import-paths/ 
+* [https://Pkg.Davsk.Net/admin.html](https://Pkg.Davsk.Net/admin.html)
+* [https://texlution.com/post/golang-canonical-import-paths/](https://texlution.com/post/golang-canonical-import-paths/)
 
 ## License
 

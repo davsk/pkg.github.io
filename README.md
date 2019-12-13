@@ -5,6 +5,7 @@ This site provides Canonical import paths for Go packages served by Davsk Ltd. C
 ## Menu
 ### DavskIo
 * Documentation https://Pkg.Davsk.Net/DavskIo/
+* Code
 
 ## Instructions
 * https://Pkg.Davsk.Net/admin.html

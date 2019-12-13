@@ -1,9 +1,14 @@
-# Welcome to Pkg.Davsk.Net Home Page
+# Welcome to Pkg.Davsk.Net 
 
 This site provides Canonical import paths for Go packages served by Davsk Ltd. Co.
 
 ## Instructions
+
 https://texlution.com/post/golang-canonical-import-paths/ 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## GitHub Pages
 You can use the [editor on GitHub](https://github.com/davsk/pkg.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

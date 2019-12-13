@@ -2,7 +2,7 @@
 
 ## Instructions
 
-https://texlution.com/post/golang-canonical-import-paths/ 
+[https://texlution.com/post/golang-canonical-import-paths/](https://texlution.com/post/golang-canonical-import-paths/)
 
 ## GitHub Pages
 You can use the [editor on GitHub](https://github.com/davsk/pkg.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.

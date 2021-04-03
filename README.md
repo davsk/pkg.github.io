@@ -6,6 +6,9 @@ This site provides Canonical import paths for Go packages served by Davsk Ltd. C
 ### DavskIo
 * Documentation [![GoDoc](https://godoc.org/pkg.davsk.net/DavskIo?status.svg)](https://godoc.org/pkg.davsk.net/DavskIo)
 * Code
+### Frodo
+* Documentation [![GoDoc](https://godoc.org/pkg.davsk.net/Frodo?status.svg)](https://godoc.org/pkg.davsk.net/Frodo)
+* Code
 
 ## Instructions
 * [https://Pkg.Davsk.Net/admin.html](https://Pkg.Davsk.Net/admin.html)
